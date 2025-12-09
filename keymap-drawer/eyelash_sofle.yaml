@@ -142,7 +142,7 @@ layers:
   - F7
   - F8
   - F9
-  - F10
+  - _
   - $$mdi:progress-download$$
   - {t: '$$mdi:transfer$$', type: trans}
   - $$mdi:bluetooth-off$$
