@@ -49,6 +49,15 @@
         };
     };
 
+    macros {
+        auto_curly: auto_brackets {
+            compatible = "zmk,behavior-macro";
+            #binding-cells = <0>;
+            bindings = <&kp LEFT_BRACE &kp RIGHT_BRACE &kp LEFT>;
+            label = "AUTO_BRACKETS";
+        };
+    };
+
     keymap {
         compatible = "zmk,keymap";
 
