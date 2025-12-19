@@ -56,6 +56,13 @@
             bindings = <&kp LEFT_BRACE &kp RIGHT_BRACE &kp LEFT>;
             label = "AUTO_CURLY";
         };
+
+        auto_square: auto_square {
+            compatible = "zmk,behavior-macro";
+            #binding-cells = <0>;
+            bindings = <&kp LEFT_BRACKET &kp RIGHT_BRACKET &kp LEFT>;
+            label = "AUTO_SQUARE";
+        };
     };
 
     keymap {
