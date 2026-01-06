@@ -78,8 +78,8 @@ layers:
   - F8
   - F9
   - F10
-  - F11
-  - {t: '$$mdi:transfer$$', type: trans}
+  - $$mdi:backspace-reverse-outline$$
+  - '"'
   - {t: '`', s: '~'}
   - AltGr+W
   - $$mdi:mouse-scroll-wheel$$
@@ -115,7 +115,7 @@ layers:
   - RGB BRI
   - RGB BRD
   - Ins
-  - F12
+  - {t: '$$mdi:transfer$$', type: trans}
   - '{'
   - '}'
   - $$mdi:volume-off$$
