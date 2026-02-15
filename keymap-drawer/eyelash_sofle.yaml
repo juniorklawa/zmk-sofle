@@ -77,7 +77,7 @@ layers:
   - F7
   - F8
   - F9
-  - F10
+  - PRINTSCREEN
   - $$mdi:backspace-reverse-outline$$
   - '"'
   - {t: '`', s: '~'}
@@ -115,7 +115,7 @@ layers:
   - RGB BRI
   - RGB BRD
   - Ins
-  - {t: '$$mdi:transfer$$', type: trans}
+  - F10
   - '{'
   - '}'
   - $$mdi:volume-off$$
