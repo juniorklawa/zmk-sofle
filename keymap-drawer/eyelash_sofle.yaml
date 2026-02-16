@@ -77,8 +77,8 @@ layers:
   - F7
   - F8
   - F9
-  - $$mdi:backspace-reverse-outline$$
-  - $$mdi:backspace-reverse-outline$$
+  - F10
+  - PRINTSCREEN
   - '"'
   - {t: '`', s: '~'}
   - AltGr+W
